@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/lucas-machiner-49bb15183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasmachiner)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
