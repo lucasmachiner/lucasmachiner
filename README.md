@@ -27,6 +27,13 @@
   <a href="https://www.linkedin.com/in/lucas-machiner-49bb15183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<a href="https://github.com/lucasmachiner/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmachiner&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmachiner&repo=convoychat" />
+</a>
+
 
 
 
