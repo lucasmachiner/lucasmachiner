@@ -7,19 +7,38 @@
 
 ---
 
-## 📊 GitHub Stats
+<## 📊 GitHub Stats
 
 <div align="center">
+  <div align="center">
   <img src="https://streak-stats.demolab.com?user=lucasmachiner&theme=tokyonight" />
-  <!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasmachiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasmachiner&layout=compact&langs_count=6&theme=tokyonight"/> -->
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmachiner&theme=tokyo-night" />
+</div>
+  <!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasmachiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasmachiner&layout=compact&langs_count=6&theme=tokyonight"/> -->
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=lucasmachiner&theme=tokyonight" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmachiner&theme=tokyo-night" />
+</div>
+
+
+<br/>
+
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasmachiner&theme=tokyonight" />
+</div> -->
 
 ---
 
