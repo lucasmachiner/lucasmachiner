@@ -19,12 +19,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmachiner&theme=tokyo-night" />
 </div>
 
-
 <br/>
-
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasmachiner&theme=tokyonight" />
-</div> 
 
 ---
 
